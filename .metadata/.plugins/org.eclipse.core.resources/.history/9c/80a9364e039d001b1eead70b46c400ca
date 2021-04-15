@@ -1,5 +1,0 @@
-package br.com.wcode.consuming_api.controllers;
-
-public class CepController {
-
-}

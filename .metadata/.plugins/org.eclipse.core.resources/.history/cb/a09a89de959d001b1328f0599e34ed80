@@ -1,5 +1,0 @@
-package br.com.wcode.consuming_api.services;
-
-public interface CepService {
-
-}

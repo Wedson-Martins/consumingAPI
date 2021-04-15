@@ -1,8 +1,0 @@
-package br.com.wcode.consuming_api.services;
-
-import org.springframework.cloud.openfeign.FeignClient;
-
-@FeignClient(url = "https://viacep.com.br/ws/", name = "viacep")
-public interface CepService {
-
-}
